@@ -1,5 +1,5 @@
 # 🔥 About Me:
-Probably making a website right now<br>Pre final year student in Manipal Institute of Technology
+Pre final year student in Manipal Institute of Technology
 
 
 ## 🌐 Socials:
