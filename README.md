@@ -1,5 +1,3 @@
-# Yash Bharadwaj  
-
 👋 Hi, I'm Yash Bharadwaj, a pre-final year IT student at MIT Manipal.  
 
 ### About Me  
