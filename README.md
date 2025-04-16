@@ -4,7 +4,7 @@
 - 💻 Software Developer at **Eventory**  
 - 🔧 Former Full-Stack Developer at **Horse's Mouth** (8 months)  
 - 🚀 Built multiple **production-grade projects** with real users  
-- 🛠️ Proficient in **MERN stack, Next.js, SQL, AWS, and more**  
+- 🛠️ Proficient in **WEB2 & WEB3** development
 
 ### Achievements  
 - 🥈 **2nd place** - Enduraverse'25 Hackathon  
