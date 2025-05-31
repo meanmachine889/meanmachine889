@@ -3,8 +3,8 @@
 ### About Me 
 - 🌐 Fullstack Blockchain developer at **Integral**
 - 💻 Former Software Developer at **Eventory**  
-- 🔧 Former Full-Stack Developer at **Horse's Mouth** (8 months)  
-- 🚀 Built multiple **production-grade projects** with real users  
+- 🔧 Former Full-Stack Developer at **Horse's Mouth** 
+- 🚀 Built multiple **production-grade projects** with real users
 - 🛠️ Proficient in **WEB2 & WEB3** development
 
 ### Achievements  
