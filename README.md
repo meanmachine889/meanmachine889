@@ -1,7 +1,7 @@
 👋 Hi, I'm Yash Bharadwaj, a pre-final year IT student at MIT Manipal.  
 
 ### About Me 
-- 🌐 Fullstack Blockchain developer at Integral
+- 🌐 Fullstack Blockchain developer at **Integral**
 - 💻 Former Software Developer at **Eventory**  
 - 🔧 Former Full-Stack Developer at **Horse's Mouth** (8 months)  
 - 🚀 Built multiple **production-grade projects** with real users  
