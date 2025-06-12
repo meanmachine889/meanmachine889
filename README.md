@@ -17,5 +17,3 @@
 
 📌 [LinkedIn](https://www.linkedin.com/in/yash-bharadwaj-47871b251/) | 🐦 [Twitter/X](https://x.com/YashBha95474776)  
 
-### Profile Views
-![Visitor Count (01/01/21 onwards)](https://profile-counter.glitch.me/{meanmachine889}/count.svg)
