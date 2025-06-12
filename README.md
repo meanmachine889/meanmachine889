@@ -1,4 +1,4 @@
-👋 Hi, I'm Yash Bharadwaj, a pre-final year IT student at MIT Manipal.  
+👋 Hi, I'm Yash Bharadwaj, a final year IT student at MIT Manipal.  
 
 ### About Me 
 - 🌐 Fullstack Blockchain developer at **Integral**
