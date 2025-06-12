@@ -16,3 +16,6 @@
 🔗 [Portfolio](https://furiyash.vercel.app) | 📄 [Resume](https://drive.google.com/file/d/1eFy1bQYkb5XCBrm_J_QoHmwNYsOcf01u/view?usp=drivesdk)  
 
 📌 [LinkedIn](https://www.linkedin.com/in/yash-bharadwaj-47871b251/) | 🐦 [Twitter/X](https://x.com/YashBha95474776)  
+
+### Profile Views
+![Visitor Count (01/01/21 onwards)](https://profile-counter.glitch.me/{meanmachine889}/count.svg)
